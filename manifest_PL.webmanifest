@@ -1,0 +1,16 @@
+{
+  "name": "Πρόγνωση Premier League",
+  "short_name": "Premier League",
+  "description": "Παιχνίδι προβλέψεων για την Premier League με την παρέα",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#150a20",
+  "theme_color": "#150a20",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icons/icon-192_PL.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512_PL.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable_PL.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
